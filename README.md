@@ -12,7 +12,7 @@ Siga os passos abaixo para configurar e rodar o projeto.
 1. Clone o Repositório
 Clone este repositório para o seu ambiente local:
 ```sh
-git clone https://github.com/seu-usuario/laravel-notification.git
+git clone https://github.com/Freirelf/notification.git
 cd laravel-notification
 ```
 
